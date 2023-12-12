@@ -1,4 +1,4 @@
-@Library('devops@master') _
+@Library('devops@main') _
 pipelineNodeJs(scmUrl: 'https://github.com/Az0917/NodeJSApp.git')
 
 
