@@ -1,7 +1,7 @@
 version: '3'
 services:
   web:
-    image: julianmol007/${repoName}:${BUILD_ID}
+    image: ${USER}/${REPO}:${BUILD_ID}
     container_name: nodejs_app
     ports:
       - "3001:3001"
