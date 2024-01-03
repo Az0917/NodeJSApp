@@ -1,4 +1,4 @@
 @Library('devops@main') _
-pipelineGeneral(scmUrl: 'https://github.com/Az0917/devops.git')
+pipelineGeneral(scmUrl: 'https://github.com/Az0917/NodeJSApp.git')
 
 
